@@ -43,6 +43,10 @@ keyword_lists['C'] = [
 "sprintf",
 "stdio.h",
 "Copyright",
+"#endif ",
+"{",
+"}",
+"};",
 "GNU General Public License"]
 
 keyword_lists['PHP'] = [
