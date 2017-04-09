@@ -43,7 +43,7 @@ keyword_lists['C'] = [
 "sprintf",
 "stdio.h",
 "Copyright",
-"#endif ",
+"#endif",
 "{",
 "}",
 "};",
